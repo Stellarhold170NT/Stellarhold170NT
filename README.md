@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neptune</h1>
 <h3 align="center">“Mozart’s telling us from up the sky… “Go on a journey,” he’s saying.”</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/116/11664.gif">
+<img align="right" alt="Coding" width="400" src="[https://giffiles.alphacoders.com/116/11664.gif](https://media.tenor.com/1hdsn62I4tkAAAAM/turtle-cute.gif)">
 
 - 🌱 I’m currently learning **java**
 
