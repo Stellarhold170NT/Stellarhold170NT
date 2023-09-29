@@ -55,4 +55,3 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: labels
           plugin_topics_sort: stars
-     	  	
