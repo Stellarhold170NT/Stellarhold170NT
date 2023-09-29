@@ -53,7 +53,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_url: https://stellarhold170nt.github.io/SCP/
           plugin_projects: yes
           plugin_projects_descriptions: yes
           plugin_projects_limit: 1
