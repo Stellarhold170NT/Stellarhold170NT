@@ -1,6 +1,9 @@
 
 <p align ="center">
     <img width = "300"  src="https://github.com/Stellarhold170NT/Stellarhold170NT/blob/main/Asset%2013%403x.png">
+</p>
+
+<p align ="center">
     <a href="https://www.facebook.com/stellar.hold170"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
