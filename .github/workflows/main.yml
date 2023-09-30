@@ -29,7 +29,7 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: collums
+          config_display: columns
           config_timezone: Asia/Saigon
           plugin_habits: yes
           plugin_habits_charts: yes
